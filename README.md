@@ -1,6 +1,6 @@
 # Intro to Scuttlebutt: ssb-client
 
-_Part of a series of tutorials being collected into the [scuttlebutt-guide](https://github.com/ssbc/scuttlebutt-guide)_
+_Part of a series of tutorials being collected into the **scuttlebutt-guide** ([ssb](%DQVOkekw0Cx7bz0fcV8/WlWlBQHnpLw9LyYp7ctYC/0=.sha256) | [github](https://github.com/ssbc/scuttlebutt-guide))_
 
 The aim of this code is to provide some examples about how to use `ssb-client`. 
 
@@ -24,7 +24,7 @@ There's a summary of where we go to with the final js file (#4) at [1:17:46](htt
 
 ## Links
 
-- [scuttlebutt-guide](https://github.com/ssbc/scuttlebutt-guide) - all the resources!
+- scuttlebutt-guide ([ssb](%DQVOkekw0Cx7bz0fcV8/WlWlBQHnpLw9LyYp7ctYC/0=.sha256) | [github](https://github.com/ssbc/scuttlebutt-guide)) - all the resources!
 - [scuttelbutt.nz](https://scuttlebutt.nz) - get started with a scuttlebutt app like Patchwork (this will mean you have lots of juicy data to play with)
 - pull-streams
   - [pull-stream.github.io](https://pull-stream.github.io/) - pull-stream module aggreration
@@ -40,10 +40,11 @@ I'm still learning - learning about how to weave scuttle code, and learning abou
 
 If you have aternative solutions you'd like to share, or feedback on the method or format, I'd love to hear.
 
-You can find me scuttlebutt : `@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519`
+You can find me on scuttlebutt : `@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519`
 or on twitter : [@whimful](https://www.twitter.com/whimful)
 
 
 ## Hire p2p Developers
 
 If you're interested in having a p2p application built, please get in touch. You can hire our [tech coop](https://www.protozoa.nz) and am happy to route you to excellent humans in the community 
+
