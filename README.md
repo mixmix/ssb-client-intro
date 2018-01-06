@@ -1,8 +1,14 @@
 # Intro to Scuttlebutt: ssb-client
 
-Part of a series of tutorials being collected into the [scuttlebutt-guide](https://github.com/ssbc/scuttlebutt-guide)
+_Part of a series of tutorials being collected into the [scuttlebutt-guide](https://github.com/ssbc/scuttlebutt-guide)_
 
-The aim of this code is to provide some examples about how to use `ssb-client`. We cover:
+The aim of this code is to provide some examples about how to use `ssb-client`. 
+
+[![](./ssb-client-intro.jpg)](https://youtu.be/D9A06DhQ8aw)
+
+This code was written in a Twitch session. Watch it here : https://youtu.be/D9A06DhQ8aw
+
+We cover:
 - setting up a scuttlebot
 - where does `ssb-client` fit in the ecosystem ([1:00](https://youtu.be/D9A06DhQ8aw?t=60))
 - connecting to scuttlbot, and running: 
@@ -11,14 +17,9 @@ The aim of this code is to provide some examples about how to use `ssb-client`. 
   - `createUserStream` ([48:27](https://youtu.be/D9A06DhQ8aw?t=2907))
 - basics of pull-streams ([16:41](https://youtu.be/D9A06DhQ8aw?t=1001))
 
-_This code assumes you already have content in your ssb database (from using Patchwork or similar)_
+There's a summary of where we go to with the final js file (#4) at [1:17:46](https://youtu.be/D9A06DhQ8aw?t=4661)
 
-[![](./ssb-client-intro.jpg)](https://youtu.be/D9A06DhQ8aw)
-
-Here's a recording of the twitch stream that generated this.
-https://youtu.be/D9A06DhQ8aw
-
-Use the timestamp links above to look for certain topics in context. There's a summary of where we go to with the final js file (#4) at [1:17:46](https://youtu.be/D9A06DhQ8aw?t=4661)
+:warning: This code assumes you already have content in your ssb database (from using Patchwork or similar)
 
 
 ## Links
@@ -43,6 +44,6 @@ You can find me scuttlebutt : `@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed2
 or on twitter : [@whimful](https://www.twitter.com/whimful)
 
 
-## Hiring p2p Developers
+## Hire p2p Developers
 
 If you're interested in having a p2p application built, please get in touch. You can hire our [tech coop](https://www.protozoa.nz) and am happy to route you to excellent humans in the community 
